@@ -1,4 +1,7 @@
-# >_ HELLO_WORLD
+<!-- Substitua o link abaixo pelo link direto do GIF hospedado -->
+<p align="center">
+  <img src="CAMINHO_PARA_O_SEU_GIF/image_13.png" alt="Cabeçalho Cibernético Animado de Isaac" width="100%">
+</p>
 
 > 👋 **Olá, eu sou o Isaac e sou estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 
