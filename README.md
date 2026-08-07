@@ -6,9 +6,9 @@
 
 ### ⚡ // TECH_STACK
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=c,mysql,linux" alt="Linguagens e Ferramentas" />
+</a>
 
 ---
 
