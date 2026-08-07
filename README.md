@@ -1,16 +1,20 @@
-## Hi there 👋
+# >_ HELLO_WORLD
 
-<!--
-**Isaac-fsi/Isaac-fsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 👋 **Olá, eu sou o Isaac e sou estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ // TECH_STACK
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+---
+
+### 📟 // SYSTEM_STATUS
+
+```bash
+$ isaac --info
+
+[+] ESTUDANDO :: Linguagem C | MySQL | Linux
