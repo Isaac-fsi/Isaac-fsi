@@ -7,7 +7,7 @@
 ### ⚡ // TECH_STACK
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=c,mysql,linux" alt="Linguagens e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=c,mysql,linux,git,leetcode" alt="Linguagens e Ferramentas" />
 </a>
 
 ---
